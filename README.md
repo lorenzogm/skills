@@ -13,3 +13,5 @@ npx skills@latest add lorenzogm/skills
 ## Available Skills
 
 - **setup-github** — Scaffold Terraform-based GitHub repository infrastructure (repo settings, branch protection, labels, topics, secrets, security).
+- **setup-vercel** — Scaffold Terraform-based Vercel project infrastructure.
+- **qa** — E2E acceptance criteria verification using the agent-browser CLI.
